@@ -14,7 +14,13 @@ git clone https://github.com/tonyrizzotto/seasondisplayapplication.git
 
 ### To run this project
 
-Once you have cloned the directory, navigate to the projects main folder. Open up your terminal and run:
+Once you have cloned the directory you will need to navigate to the projects main folder and instll the dependencies required to run. Open up your terminal and run:
+
+```
+npm install
+```
+
+After the dependencies are installed, run:
 
 ```
 npm start
