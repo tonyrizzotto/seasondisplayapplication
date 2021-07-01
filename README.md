@@ -1,6 +1,6 @@
 # Simple Geolocation Season Display Application
 
-A bit of a silly application to learn and use the browsers built-in geolocation function. This application was built using React JS and demonstrates use of simple lifecycle methods
+A bit of a silly application to learn and use the browsers built-in geolocation function. This application was built using React JS and demonstrates use of simple lifecycle methods.
 
 The application will ask a users permission to detect their location and display a message based upon which season they are in.
 
