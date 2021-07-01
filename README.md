@@ -1,6 +1,6 @@
 # Simple Geolocation Season Display Application
 
-A bit of a silly application to learn and use the browsers built-in geolocation function. This applicationw as built using React JS.
+A bit of a silly application to learn and use the browsers built-in geolocation function. This application was built using React JS and demonstrates use of simple lifecycle methods
 
 The application will ask a users permission to detect their location and display a message based upon which season they are in.
 
@@ -9,12 +9,18 @@ The application will ask a users permission to detect their location and display
 You can view this application by cloning this repository:
 
 ```
-git clone https://github.com/tonyrizzotto/
+git clone https://github.com/tonyrizzotto/seasondisplayapplication.git
 ```
 
 ### `npm start`
 
-Runs the app in the development mode.\
+Once you have cloned the directory you can navigate the the folder and run
+
+```
+npm start
+```
+
+This will run the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
