@@ -12,9 +12,9 @@ You can view this application by cloning this repository:
 git clone https://github.com/tonyrizzotto/seasondisplayapplication.git
 ```
 
-### `npm start`
+### To run this project
 
-Once you have cloned the directory you can navigate the the folder and run
+Once you have cloned the directory, navigate to the projects main folder. Open up your terminal and run:
 
 ```
 npm start
